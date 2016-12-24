@@ -659,8 +659,12 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
+    background-image: url('{{ site.baseurl }}/img/messages-on-bamboo-bennet-dungan-shaded.jpg');
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     background-repeat: no-repeat;
 }
 

@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Philippe ROLLAND
   pic: 1
-  position: Lead Designer
+  position: Consultant senior<br/>Blabla
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Vasiliki KARADALI
   pic: 2
-  position: Lead Marketer
+  position: 
   social:
     - title: twitter
       url: #
@@ -45,15 +45,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/ExplorEko
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://facebook.com/ExplorEko
+    #- title: stack-overflow
+    #url: http://stackoverflow.com/questions/tagged/jekyll
+    #- title: bitbucket 
+    #url: http://bitbucket.org/jekyll
+    #- title: github
+    #url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
